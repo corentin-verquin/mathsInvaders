@@ -2,13 +2,13 @@
 
 <Verquin Corentin> <Vanderaspoilden Rodolphe>
 
-## Présentation de <MathsInvaders>
+## Présentation de MathsInvaders
 
 <Jeux ludo-pédagogique dans lequel la matière principale sont 
 les mathématiques qui seront appliqués à travers
 un jeux du type space invaders. Ce jeux s'adresse au élèves de CM1 CM2.>
 
-## Utilisation de <MathsInvaders>
+## Utilisation de MathsInvaders
 
 Afin d'utiliser le projet, il doit être suffisant de taper les 
 commandes suivantes:
